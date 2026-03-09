@@ -64,15 +64,10 @@ Both are valuable.
 ---
 
 # 📂 Repository Structure
-ai-experiments/
-│
-├── project-X/
-│ ├── README.md
-│ ├── notes.md
-| ├── code
-│ └── memory.md
 
-
+Project X
+- Code
+- memory.md
 ---
 
 # 🧠 Memory Files
